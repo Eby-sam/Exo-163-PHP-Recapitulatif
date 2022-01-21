@@ -9,7 +9,7 @@
     <!-- Instructions : Afficher la liste des élèves qui sont présents dans le tableau $students -->
     <?php
         //students
-        $students = ['Hulk', 'Iron Man', 'Wonder Woman', 'Black Widow', 'Malicia'];
+        $students = ['tsunade', 'yoruichi', 'soi fon', 'mei', 'hallibel'];
      ?>
      <ul>
        <?php
